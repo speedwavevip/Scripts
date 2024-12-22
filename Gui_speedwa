@@ -13,7 +13,7 @@ local OrionLib = {
 	Flags = {},
 	Themes = {
 		Default = {
-			Main = Color3.fromRGB(255, 25, 25),
+			Main = Color3.fromRGB(25, 25, 25),
 			Second = Color3.fromRGB(32, 32, 32),
 			Stroke = Color3.fromRGB(255, 60, 60),
 			Divider = Color3.fromRGB(60, 60, 60),
@@ -1734,7 +1734,7 @@ function OrionLib:MakeWindow(WindowConfig)
 	--			Time = 8
 	--		})
 	--		spawn(function()
-	--			local UI = game:GetObjects("rbxassetid://11403719739")[1]
+	--			local UI = game:GetObjects("rbxassetid://115989770899185")[1]
 
 	--			if gethui then
 	--				UI.Parent = gethui()
